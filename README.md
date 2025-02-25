@@ -1,3 +1,5 @@
+[![CI_node-app-pnevmat](https://github.com/pnevmat/node-app-pnevmat/actions/workflows/blank.yml/badge.svg)](https://github.com/pnevmat/node-app-pnevmat/actions/workflows/blank.yml)
+
 # Description
 This project is the Node.js backend part of an educational  project. It provides connection to DB, implements CRUD operations and sends responses to requests. 
 ## Setup
